@@ -1,6 +1,10 @@
-# Sistema de Chat em Tempo Real
+# Sistema de Chat em Tempo Real - Sistemas Distribuidos 2024.2
 
-## Visão Geral Técnica
+## Autores
+- [Daniel Correia]()
+- [Thallys Lemos]()
+
+## Visão Geral
 O sistema implementa uma comunicação cliente-servidor em tempo real usando sockets TCP/IP, com as seguintes características principais:
 
 ### Componentes Principais
@@ -39,13 +43,10 @@ O sistema implementa uma comunicação cliente-servidor em tempo real usando soc
 ### Instalação
 ```bash
 # Clone o repositório
-git clone <repository-url>
+git clone https://github.com/thallyslemos/chat-realtime.git
 
 # Entre no diretório
 cd chat-realtime
-
-# Instale as dependências (se necessário)
-pip install -r requirements.txt
 ```
 
 ### Execução
